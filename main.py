@@ -57,7 +57,7 @@ time.sleep(2)
 
 # preencrer a informações do e-mail
 
-pyperclip.copy('eduardolorensetti@gmail.com')
+pyperclip.copy('email de quem quer enviar')
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.press('tab')
 time.sleep(1)
